@@ -39,15 +39,15 @@
         o	styles_income.css – style for pie charts in income.html
         o	uninsured.js – script for JSON file for uninsured Healthcare Coverage in USA by Race Demographic
         
-•	[chart.html](Part_TWO_Create_html/chart.html/) – code for webpage displays an interactive combined bar graph showing percentage of Healthcare Coverage in USA by Race Demographic. Coverage type by Employer, Medicaid ,Medicare, and uninsured.
+•	[chart.html](Part_Two_Create_html/chart.html/) – code for webpage displays an interactive combined bar graph showing percentage of Healthcare Coverage in USA by Race Demographic. Coverage type by Employer, Medicaid ,Medicare, and uninsured.
 
-•	[Healthcare.html](Part_TWO_Create_html/Healthcare.html) – code for webpage displays a pie chart displaying Healthcare Coverage in USA by Total Population
+•	[Healthcare.html](Part_Two_Create_html/Healthcare.html) – code for webpage displays a pie chart displaying Healthcare Coverage in USA by Total Population
 
-•	[Income.html](Part_TWO_Create_html/Income.html/) – code for webpage displays an interactive pie chart displaying the percentage of coverage type for income that are 100% and 200% below the Federal Poverty Level (FPL) in USA
+•	[Income.html](Part_Two_Create_html/Income.html/) – code for webpage displays an interactive pie chart displaying the percentage of coverage type for income that are 100% and 200% below the Federal Poverty Level (FPL) in USA
 
-•	[Index.html](Part_TWO_Create_html/index.html/) – code for main webpage that gives overview of Data Visualization project and holds links to other html webpage and link to project’s GitHub
+•	[Index.html](Part_Two_Create_html/index.html/) – code for main webpage that gives overview of Data Visualization project and holds links to other html webpage and link to project’s GitHub
 
-•	[indexGender.html](Part_TWO_Create_html/index.html/) – code for webpage that displays an interactive tree map for the percentage of coverage type by Gender for Healthcare in the USA
+•	[indexGender.html](Part_Two_Create_html/index.html/) – code for webpage that displays an interactive tree map for the percentage of coverage type by Gender for Healthcare in the USA
 
 ### <ins>Resources CSV Files</ins>
 
