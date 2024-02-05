@@ -23,7 +23,7 @@
 
 ### <ins>Part- Two: Created HTML<ins>
 
-•	[<ins>Script</ins>](Part_TWO_Create_html/script/)
+•	[<ins>Script</ins>](Part_Two_Create_html/script/)
 
         o	dataBelow100.js – script for JSON file for 100% below Federal Poverty Level (FPL)
         o	dataBelow200.js – script for JSON file for 200% below Federal Poverty Level (FPL)
