@@ -49,7 +49,7 @@
 
 •	[indexGender.html](/Part_Two_Create_html/indexGender.html/) – code for webpage that displays an interactive tree map for the percentage of coverage type by Gender for Healthcare in the USA
 
-### [<ins>Resources CSV Files</ins>](/Resoruces/)
+### [<ins>Resources CSV Files</ins>](/Resources/)
 
       •	Coverage_Gender_Men.CSV
       •	Coverage_Gender_Women.CSV
