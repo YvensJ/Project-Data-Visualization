@@ -1,5 +1,4 @@
 ## <ins>Data Visualization Project</ins> by Maria Funmi A Frazier, Mitch Murray, and Yvens Joseph
-[webpage](file:///C:/Users/Owner/DABootcamp/Project-Three/Part_Two_Create_html/index.html/)
 
 #### The objective of this assignment is to visually depict variations in Health Coverage across the United States. These variations will be analyzed based on factors such as gender, race/ethnicity, and income in relation to the origin of coverage. We hope that this research will provide insights into any existing weaknesses in Healthcare Coverage, fostering a better understanding of the current landscape.
 
