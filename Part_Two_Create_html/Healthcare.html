@@ -54,7 +54,7 @@
         }
 
         #homepage-button {
-            background-color: #ff0000; /* Red background color */
+            background-color: #ff0000; 
             color: #fff;
             padding: 10px 20px;
             font-size: 14px;
@@ -73,7 +73,7 @@
         <label for="stateDropdown">Select a State:</label>
         <select id="stateDropdown" onchange="updatePieChart()">
             <option value="">All States</option>
-            <!-- Add options dynamically using JavaScript -->
+            
         </select>
 
         <div id="pieChart"></div>
@@ -116,7 +116,7 @@
         // Function to draw the pie chart using D3.js
         function drawPieChart(data) {
             const pieChartContainer = document.getElementById('pieChart');
-            pieChartContainer.innerHTML = ''; // Clear previous chart
+            pieChartContainer.innerHTML = ''; 
 
             const width = 500;
             const height = 500;
@@ -161,12 +161,11 @@
 
             // Add legend
             const legend = document.getElementById('legend');
-            legend.innerHTML = ''; // Clear previous legend
+            legend.innerHTML = ''; 
 
             const legendData = pie(dataValues).map((d, i) => {
                 return {
-                    label: Object.keys(data)[i + 1], // Skip the first element which is the Location
-                    color: color(i)
+                    label: Object.keys(data)[i + 1], 
                 };
             });
 
@@ -185,7 +184,7 @@
             window.location.href = 'index.html';
         }
 
-        // Initial chart rendering
+        // Initial chart
         updatePieChart();
     </script>
 </body>
